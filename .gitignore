@@ -2,6 +2,7 @@
 
 # compiled output
 /bin
+/obj
 /dist
 /tmp
 /out-tsc
